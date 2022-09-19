@@ -1,8 +1,11 @@
 # Upgrade Screamer Bot: Real-time monitoring of tokens upgrades
 
+![cover](./docs/cover-ugprades.png)
+
 Upgrade Screamer Bot monitors changes in the code of token contracts (also known as upgrades). It also analyses the actions executed together with this change. Modifications of token code can affect the behaviour and economics of the asset, crucial information for users and protocols which work with them on a daily basis.
 
 [Forta](https://forta.org/) is a real-time detection network for security & operational monitoring of blockchain activity. This bot allows users and protocols to get notified (via Email, Telegram, Discord, Slack or Webhook) about upgrades of tokens, so they can react to the changes accordingly. Forta supports a great variety of notification channels, so users can receive alerts via their preferred means.
+
 
 
 ## The problem
